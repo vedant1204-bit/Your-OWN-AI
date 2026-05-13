@@ -8,7 +8,7 @@ Implements **HNSW**, **KD-Tree**, and **Brute Force** search algorithms side-by-
 ---
 
 ## What This Project Does
-
+ 
 | Feature | Description |
 |---|---|
 | **3 Search Algorithms** | HNSW (production-grade), KD-Tree, Brute Force — run all three and compare speed |
